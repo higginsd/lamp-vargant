@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vagrant-lamp-bootstrap
 
 A super-simple Vagrantfile / bootstrap.sh to setup a LAMP stack inside Vagrant 100% automatically.
@@ -37,3 +38,7 @@ This box uses Ubuntu 14.04 LTS "Trustry Thar" 64bit, so if you don't have the ba
 ### Why ?
 
 This is just my personal time-saving bootstrap for Vagrant, it might be useful for you too.
+=======
+# lamp-vargant
+vagrant image for lamp server
+>>>>>>> ac66d0ab835c408be28c226fe2c7bcd1fa449bd8
