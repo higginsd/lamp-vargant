@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# vagrant-lamp-bootstrap
+======
+# lamp-vargant
 
 A super-simple Vagrantfile / bootstrap.sh to setup a LAMP stack inside Vagrant 100% automatically.
 
@@ -32,13 +32,3 @@ You can folder and password inside the bootstrap.sh for sure.
 ### How to use ?
 
 Put `Vagrantfile` and `bootstrap.sh` inside a folder and do a `vagrant up` on the command line.
-This box uses Ubuntu 14.04 LTS "Trustry Thar" 64bit, so if you don't have the basic box already, do a 
-`vagrant box add ubuntu/trusty64` before.
-
-### Why ?
-
-This is just my personal time-saving bootstrap for Vagrant, it might be useful for you too.
-=======
-# lamp-vargant
-vagrant image for lamp server
->>>>>>> ac66d0ab835c408be28c226fe2c7bcd1fa449bd8

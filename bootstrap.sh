@@ -5,7 +5,7 @@ PASSWORD='lamp1234'
 #PROJECTFOLDER='myproject'
 
 # create project folder
-sudo mkdir "/var/www/html/${PROJECTFOLDER}"
+#sudo mkdir "/var/www/html/${PROJECTFOLDER}"
 
 # update / upgrade
 sudo apt-get update
